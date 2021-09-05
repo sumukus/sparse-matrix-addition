@@ -1,0 +1,15 @@
+Run time for martix of dimensions 200*200
+(sparsity -> runtime)
+(0.1 -> 0.00047 seconds)
+(0.2 -> 0.00095 seconds)
+(0.3 -> 0.001555 seconds)
+(0.4 -> 0.002 seconds)
+(0.5 -> 0.002589 seconds)
+(0.6 -> 0.002999 seconds)
+(0.7 -> 0.003481 seconds)
+(0.8 -> 0.003996 seconds)
+(0.9 -> 0.004717 seconds)
+
+
+The normal matrix addition of dimensions 200*200 takes
+0.001687seconds
