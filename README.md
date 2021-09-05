@@ -4,7 +4,7 @@ I have used the triplet representation for sparse matrix. It will have row, col 
 In our code the sparsity value represents the total number of non zero elements.
 If sparsity value is 0.1 and total matrix size is 10, then 0.1 *10 = 1. There will be 1 non zero elements present in the matrix.
 
-I have used stuct type to represent a matrix value. Then I have uesed vector of type struct to store all the matrix elements.
+I have used struct type to represent a matrix value. Then I have uesed vector of type struct to store all the matrix elements.
 <pre>
 type struct{
   int row;
