@@ -16,7 +16,7 @@ vector < struct > matrix;
 </pre>
 
 ## Sparse Matrix Addition Result
-The table given below shows the run time required to add two matrix of dimension 200*200 with different sparsity value.
+The table given below shows the run time required to add two matrix of dimension 200*200 with different sparsity value. The same data will be stored in runtime.txt file when you execute the sparseMatrixAddition.cpp code file.
 
 | Sparsity Value(sp)|Runtime(seconds)|
 ------------------------|-----------------| 
