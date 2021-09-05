@@ -1,4 +1,4 @@
-# sparse-matrix-addition
+# Spares Matrix Addition
 
 I have used the triplet representation of sparse matrix. It will have row, col and value.
 In our code the sparsity value represents the total number of non zero elements.
