@@ -26,7 +26,7 @@ The normal matrix addition of same dimension(200*200) took  **0.001687 seconds**
 we can see that the matrix with less number of sparsity value takes less amount of time to complete its execution. As the sparsity increases the execution time also increases. So it is good to use the triplet representation of matrix to do the addition when the sparsity value is less. As it takes less amount of time to complete its execution.
 
 ## Draw Backs of the Above Code
-*When we use builtin rand() functions, there are chances to overlap the rows and columns values. So I have use custom method to check. It makes the code slow to generate the random matrix.
-*Improvements can be done on the logic/algorithm.
+* When we use builtin rand() functions, there are chances to overlap the rows and columns values. So I have use custom method to check. It makes the code slow to generate the random matrix.
+* Improvements can be done on the logic/algorithm.
 
 
