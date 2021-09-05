@@ -12,7 +12,7 @@ type struct{
   int value;
 };
 
-vector < strcut > matrix;
+vector < struct > matrix;
 </pre>
 
 ## Sparse Matrix Addition Result
