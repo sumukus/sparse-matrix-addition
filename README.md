@@ -1,6 +1,6 @@
 # Spares Matrix Addition
 
-I have used the triplet representation of sparse matrix. It will have row, col and value.
+I have used the triplet representation for sparse matrix. It will have row, col and value.
 In our code the sparsity value represents the total number of non zero elements.
 If sparsity value is 0.1 and total matrix size is 10, then 0.1 *10 = 1. There will be 1 non zero elements present in the matrix.
 
